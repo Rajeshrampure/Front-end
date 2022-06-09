@@ -1,0 +1,48 @@
+
+div.one {
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+div.two {
+    position: absolute;
+    right: 50%;
+    top: 0px;
+}
+div.three {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+div.four {
+    position: absolute;
+    bottom: 40%;
+    left: 0;
+}
+div.five {
+    position: absolute;
+    right: 50%;
+    bottom: 40%;
+
+}
+div.six {
+    position: absolute;
+    right: 0px;
+    bottom: 40%;
+
+}
+div.seven {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+div.eight {
+    position: absolute;
+    right: 50%;
+    bottom: 0px;
+}
+div.nine {
+    position: absolute;
+    right: 0;
+    bottom: 0px;
+}

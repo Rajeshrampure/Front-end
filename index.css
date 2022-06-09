@@ -1,0 +1,55 @@
+p {
+    background-color: aqua;
+    border: 1px solid;
+
+    /* Aplly on all sides */
+    margin: 80px;
+
+    /* Specific Margin  */
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 150px;
+    margin-right: 200px;
+
+    margin: 100px 200px 100px 150px;
+
+    margin: 100px 200px;
+
+    margin: 100px 200px 300px 0px;
+
+
+}
+div{
+    margin: 0%;
+}
+.test {
+    background-color: blue !important;
+
+
+}
+
+.four {
+    background-color: yellowgreen;
+    color: white;
+    padding: 10px;
+    border: none;
+
+}
+
+#five {
+    background-color: aqua;
+    color: white;
+
+}
+
+#six {
+    background-color: orange;
+    color: white;
+
+}
+
+#seven {
+    background-color: red;
+    color: white;
+
+}

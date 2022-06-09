@@ -1,0 +1,9 @@
+.ex1 {
+    width: 300px;
+    /* visibility: hidden; */
+}
+
+.ex2 {
+    max-width: 300px;
+    /* display: none; */
+}

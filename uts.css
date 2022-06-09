@@ -1,0 +1,41 @@
+h3{
+    display: inline;
+    text-align: top;
+    padding: 17px;
+} 
+button{
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+}
+.mag1{
+    width: 400px;
+    height: 350px;
+    margin-left: 50px;
+}
+.search {
+    width: 120px;
+    height: 80px;
+}
+.row {
+    display: inline;
+}
+p{
+    display: inline;
+}
+.col{
+    display: inline;
+}
+.two{
+    font-size: 50px;
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+}
+.one{
+    text-align: left;
+    
+}
+.three{
+    font-size: 10px;
+}

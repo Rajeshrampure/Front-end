@@ -1,0 +1,26 @@
+p {
+    border: 3px solid;
+    padding: 20px;
+}
+
+img {
+    /* float: left; */
+    float: right;
+}
+
+div {
+    float: left;
+    padding: 15px;
+}
+
+.div1 {
+    background-color: red;
+}
+
+.div2 {
+    background-color: greenyellow;
+}
+
+.div3 {
+    background-color: pink;
+}

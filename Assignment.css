@@ -1,0 +1,38 @@
+body{
+    margin-left: 0;
+   padding: 0%,0%;
+
+}
+.web{
+    width: 12%;
+    text-align: top;
+    margin-top: 0%;
+}
+.webs{
+    width: 12%;
+    text-align: top;
+}
+.web2{
+    border: none;
+}
+
+#prop{
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+div.omg{
+    display: inline;
+}
+
+.Navibar ul {
+    list-style: none;
+   
+}
+.Navibar li{
+    display: inline-block;
+}
+.Navibar a{
+    text-decoration: none;
+    display: block;
+}
